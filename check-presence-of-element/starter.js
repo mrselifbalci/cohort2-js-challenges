@@ -6,4 +6,4 @@ function checkPresence(sports, sport) {
 	// true or false
 }
 
-checkPresence(sports, sport);
+checkPresence(sports, sport); 

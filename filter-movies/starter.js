@@ -11,4 +11,4 @@ function filterMovies(movies, minRating) {
   // TODO
 }
 
-filterMovies(movies, minRating)
+filterMovies(movies, minRating) 
